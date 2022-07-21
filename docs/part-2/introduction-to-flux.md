@@ -220,7 +220,7 @@ Flux comes with a large library of functions. These functions are organized into
 
 ### Built In Functions
 
-The stdlib comes with a set of “[built-in functions](https://docs.influxdata.com/influxdb/v2.0/reference/flux/stdlib/built-in/),” meaning that you can use them without importance. These are the most commonly used functions, and all the functions introduced so far (`from()`,` range()`, and `filter()`) are built-in.
+The stdlib comes with a set of “[built-in functions](https://docs.influxdata.com/influxdb/v2.0/reference/flux/stdlib/built-in/),” meaning that you can use them without importing. These are the most commonly used functions, and all the functions introduced so far (`from()`,` range()`, and `filter()`) are built-in.
 
 
 ### Imports
